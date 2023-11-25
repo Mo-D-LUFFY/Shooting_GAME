@@ -39,3 +39,4 @@ link-https://www.youtube.com/watch?v=jO6qQDNa2UY
 This project is licensed under the AYUSHRAJ License.
 All thanks to the creator himself
 
+![Game Screenshot](Assets/spaceship_red.png)
